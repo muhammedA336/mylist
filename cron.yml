@@ -1,0 +1,17 @@
+
+- name: Add a cron job to log time every minute
+  hosts: local
+  become: true
+
+  tasks:
+    - name: Create cron job to log time
+      ansible.builtin.cron:
+        name: "create user cron"
+        minute: "10"
+        hour: "10"
+        day: "*"
+        month: "*"
+        weekday: "*"
+        job: "date >> /Downloads/cron"
+       
+

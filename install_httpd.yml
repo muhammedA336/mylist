@@ -1,0 +1,11 @@
+---
+- name: Install httpd on webserver
+  hosts: webserver
+  become: yes
+
+  tasks:
+    - name: Install httpd package
+      package:
+        name: apache2  # On Kali/Debian systems, it's apache2 instead of httpd
+        state: present
+

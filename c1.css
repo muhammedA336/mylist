@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABC College</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <img src="https://via.placeholder.com/80" alt="College Logo">
+        <h1>ABC College of Technology</h1>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#courses">Courses</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>ABC College of Technology is a premier institution providing quality education in Engineering, Science, and Management. Founded in 1990, it has grown into one of the top-ranked colleges in the country.</p>
+    </section>
+
+    <section id="courses">
+        <h2>Courses Offered</h2>
+        <ul>
+            <li>B.Tech in Computer Science</li>
+            <li>B.Tech in Electronics and Communication</li>
+            <li>B.Sc in Data Science</li>
+            <li>MBA in Marketing and Finance</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@abccollege.edu</p>
+        <p>Phone: +91-9876543210</p>
+        <p>Address: ABC Nagar, City, State - 600123</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ABC College of Technology. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+

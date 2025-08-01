@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: two-container-pod
+  namespace:  k8s
+ containers:
+    - name: nginx-container
+      image: nginx
+      ports:
+        - containerPort: 80
+    - name: busybox-container
+      image: busybox
+      command: ['sh', '-c', 'while true; do echo busybox running; sleep 10; done']
+

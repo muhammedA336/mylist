@@ -1,0 +1,14 @@
+---
+- name: Install nginx only on Kali Linux
+  hosts: webservers
+  become: yes
+  gather_facts: yes
+
+  tasks:
+    - name: Install nginx only on Kali Linux
+      ansible.builtin.apt:
+        name: nginx
+        state: present
+        update_cache: yes
+      when: ansible_facts['distribution'] == "Kali"
+

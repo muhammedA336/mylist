@@ -1,0 +1,13 @@
+services: 
+  nginx:
+    image: nginx:latest
+    container_name: nginx_server1
+    ports:
+      - "8081:80"
+  apache:
+    image: httpd:latest
+    container_name: apache_server
+    ports:
+      - "8083:80"
+    
+

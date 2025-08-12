@@ -1,0 +1,144 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/spectrum/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/50x11-common_determine-startup: line 10: has_option: command not found
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting PWD=/home/spectrum
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting LOGNAME=spectrum
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/spectrum/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/spectrum
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting HOME=/home/spectrum
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting M2_HOME=/opt/maven
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=spectrum
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting PATH=/home/spectrum/.local/bin:/opt/maven/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/spectrum/.dotnet/tools
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 09:10:33.955: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 09:10:33.955: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 09:10:33.955: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 09:10:33.955: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 09:10:34.122: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(polkit-mate-authentication-agent-1:1749): GLib-CRITICAL **: 09:10:34.873: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1749): polkit-mate-1-WARNING **: 09:10:34.874: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+blueman-applet 09.10.35 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.10.35 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.10.35 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::CheckBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::RadioButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::HeaderPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ItemViewPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MessageBoxLabelPelette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TabBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::LabelPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::GroupBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextLineEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:17:59.625: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:17:59.625: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:17:59.634: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:17:59.634: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:34.096: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:34.097: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:34.378: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:34.378: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:34.399: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:34.399: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:39.119: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:39.119: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:39.342: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:39.342: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:39.346: g_dbus_method_invocation_get_message: assertion 'G_IS_DBUS_METHOD_INVOCATION (invocation)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:39.346: g_dbus_message_get_unix_fd_list: assertion 'G_IS_DBUS_MESSAGE (message)' failed
+
+(polkit-mate-authentication-agent-1:1749): GLib-GIO-CRITICAL **: 09:18:47.614: g_task_return_boolean: assertion '!task->ever_returned' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.543: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.543: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.544: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.575: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.576: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.577: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.712: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.712: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.799: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 2067, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox-esr:2067): GLib-GObject-CRITICAL **: 12:31:13.864: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(xfce4-power-manager:1759): libxfce4ui-WARNING **: 12:45:58.233: ICE I/O Error
+
+(xfce4-power-manager:1759): libxfce4ui-WARNING **: 12:45:58.233: Disconnected from session manager.

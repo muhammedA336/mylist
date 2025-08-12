@@ -1,0 +1,10 @@
+---
+- name: Create a file on remote servers
+  hosts: webservers
+  become: true  # Use sudo
+  tasks:
+    - name: Create a test file
+      file:
+        path: /tmp/ansible_test_file.txt
+        state: touch
+

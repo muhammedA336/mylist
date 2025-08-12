@@ -1,0 +1,8 @@
+# Ignore cache, config, and browser data
+.cache/
+.mozilla/
+.Xauthority
+.ICEauthority
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
